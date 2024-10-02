@@ -1,6 +1,3 @@
-Here's a project description you can use for your GitHub repository:
-
----
 
 # WebSocket Message Echo
 
@@ -61,6 +58,3 @@ This project demonstrates the functionality of WebSockets using a full-stack app
 
 This project is licensed under the MIT License.
 
----
-
-Feel free to modify any part of the description to better suit your project!
